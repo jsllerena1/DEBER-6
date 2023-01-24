@@ -19,6 +19,9 @@ En las siguientes diapositivas se nos muestra cada uno de los temas que se prese
 ![image](https://user-images.githubusercontent.com/116833211/214367543-f09025b5-81f4-4f4f-998f-0baaab172222.png)
 ![image](https://user-images.githubusercontent.com/116833211/214368407-22db8949-e5f4-4c64-8670-df058ba65d39.png)
 ![image](https://user-images.githubusercontent.com/116833211/214370035-5f344983-be65-4caa-bbae-dac4dfa243ed.png)
+![image](https://user-images.githubusercontent.com/116833211/214371994-e8932999-d425-4607-a148-dea389671681.png)
+![image](https://user-images.githubusercontent.com/116833211/214372483-e291c145-0032-4d5b-a11f-2bac3d05fdf8.png)
+![image](https://user-images.githubusercontent.com/116833211/214372704-2e073e32-9b86-4df7-b23a-028756fc8624.png)
 
 
 ## EJERCICIOS
