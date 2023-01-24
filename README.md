@@ -16,6 +16,10 @@ En las siguientes diapositivas se nos muestra cada uno de los temas que se prese
 
 ## CAPITULO 11 Y 12
 ![image](https://user-images.githubusercontent.com/116833211/214347875-ad328e79-fe3f-4e3f-ad9e-955304bd137e.png)
+![image](https://user-images.githubusercontent.com/116833211/214367543-f09025b5-81f4-4f4f-998f-0baaab172222.png)
+![image](https://user-images.githubusercontent.com/116833211/214368407-22db8949-e5f4-4c64-8670-df058ba65d39.png)
+![image](https://user-images.githubusercontent.com/116833211/214370035-5f344983-be65-4caa-bbae-dac4dfa243ed.png)
+
 
 ## EJERCICIOS
 ![image](https://user-images.githubusercontent.com/116833211/214348326-b55a3db7-4fce-49c7-9ce7-40c6003cd288.png)
